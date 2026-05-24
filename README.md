@@ -52,8 +52,8 @@
 
 ### 🌱 Currently Learning
 
-- ⚡ Advanced JavaScript (ES6+, async/await, APIs)
-- 🔧 PHP backend development & MySQL
+- ⚡ Advanced JavaScript with React
+- 🔧 PHP backend development with Laravel & MySQL
 - 🎨 Responsive design & UI/UX principles
 - 📦 Git workflows & best practices
 
