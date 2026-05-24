@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asem-al-zaghal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="A'sem's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asem-al-zaghal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAsemZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="A'sem's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAsemZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ I'm always happy to chat, collaborate, or just say hi. Whether you're a fellow d
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asem-al-zaghal&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MrAsemZ&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center"><em>"The expert in anything was once a beginner." — Helen Hayes</em></p>
