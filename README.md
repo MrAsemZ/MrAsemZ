@@ -76,5 +76,3 @@ I'm always happy to chat, collaborate, or just say hi. Whether you're a fellow d
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrAsemZ&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
-
-<p align="center"><em>"The expert in anything was once a beginner." — Helen Hayes</em></p>
