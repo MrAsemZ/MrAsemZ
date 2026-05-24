@@ -44,8 +44,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAsemZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="A'sem's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAsemZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=MrAsemZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAsemZ&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 ---
