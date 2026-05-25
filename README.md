@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm A'sem Al-Zaghal 👋</h1>
+<h1 align="center">Hello, I'm A'sem Al-Zaghal 👋</h1>
 
 <p align="center">
   <em>Junior Developer · Lifelong Learner · Building my way up 🚀</em>
