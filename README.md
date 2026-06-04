@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Portfolio-asem--alzaghal.netlify.app-00e5ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://asem-alzaghal.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00e5ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio--%23FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 ---
