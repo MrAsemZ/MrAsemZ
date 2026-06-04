@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asem-al-zaghal/">
-    <img src="https://img.shields.io/badge/Portfolio-asem--alzaghal.netlify.app-00e5ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://asem-alzaghal.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio--%23FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
 
