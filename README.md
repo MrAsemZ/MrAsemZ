@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/asem-al-zaghal/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="https://asem-alzaghal.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-00e5ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
